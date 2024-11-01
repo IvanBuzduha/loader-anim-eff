@@ -8,7 +8,7 @@ section {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #1f9ecc;
+    background: #0c9ed3;
     animation: alternateBg 10s linear infinite;
 }
 @keyframes alternateBg {
